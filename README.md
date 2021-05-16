@@ -31,8 +31,15 @@ With_TTS.py:
 
 # How to use:
  * Mobile:
-   * แนะนำให้โหลด [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ดีสุดเละ
-   * แล้วเปิดไฟล์
+   * Android:
+   -----
+    * แนะนำให้โหลด [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ดีสุดเละ
+    * แล้วเปิดไฟล์
+   -----
+   * IOS:
+   -----
+    * ผมไม่รู้ว่ามันมีแอพอะไรที่รัน Python ได้
+   -----
  * Computer:
    * ให้โหลด [Python](https://python.org)
    * แล้วสามารถรันผ่าน IDLE ของ Python ได้โดยตรงเลย
