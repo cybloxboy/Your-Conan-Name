@@ -26,7 +26,10 @@ With_TTS.py:
 โดย วิธีการโหลดคือ:
 * เปิด Terminal ของคุณ แล้วพิมพ์คำสั่งว่า
   * *pip install gTTS*
-
+  
+  และ
+  
+  * *pip install playsound*
 
 # How to use:
  * Mobile:
