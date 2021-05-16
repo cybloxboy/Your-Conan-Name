@@ -29,6 +29,14 @@ With_TTS.py:
   * *pip install gTTS*
 
 
+# How to use:
+ * Mobile:
+   * แนะนำให้โหลด [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ดีสุดเละ
+   * แล้วเปิดไฟล์
+ * Computer:
+   * ให้โหลด [Python](https://python.org)
+   * แล้วสามารถรันผ่าน IDLE ของ Python ได้โดยตรงเลย
+
 # Credit
 * Project นี้ได้รับแรงบัลดาลใจมาจาก โพสต์เฟสบุ๊ก ของ CONAN THAI โดยจะเป๊ะ โพสต์ต้นฉบับให้
   * https://www.facebook.com/DetectiveConanThai/posts/1714941795311596
