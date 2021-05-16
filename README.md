@@ -1,4 +1,4 @@
-# ชื่อตอนโคนันของคุณ
+# ชื่อตอนโคนันของคุณ (Your Connan Name)
 --------
 ## Welcome to my project!!!
 
