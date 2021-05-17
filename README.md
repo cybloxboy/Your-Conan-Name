@@ -1,6 +1,8 @@
 # ชื่อตอนโคนันของคุณ (Your Connan Name)
 ## Welcome to my project!!!
 
+## Please Read this before using code
+
 ### Project by Cyblox_boy
 
 นี้เป็นโปรแรมที่เอาไว้สร้างตอนโคนันของคุณ
